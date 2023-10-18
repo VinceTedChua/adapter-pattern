@@ -40,7 +40,6 @@ SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard
 
 
 
-
-
 ## Executed Java Code For Adaptive Pattern -(Appliances)
+<img width="551" alt="Java_Solution" src="https://github.com/VinceTedChua/adapter-pattern/assets/142372312/4e29a738-e6df-40c6-b3a3-d370bf15ade2">
 
