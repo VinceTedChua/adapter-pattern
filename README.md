@@ -32,12 +32,7 @@ SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard
 
 
 ## UML Class Diagram
-
-
-
-
-
-
+<img width="1071" alt="SS_CSL311-18_Adapter_Pattern_Chua" src="https://github.com/VinceTedChua/adapter-pattern/assets/142372312/f65f9433-b108-472a-aff6-ec7099a5b081">
 
 
 ## Executed Java Code For Adaptive Pattern -(Appliances)
